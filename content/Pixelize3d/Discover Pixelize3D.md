@@ -1,6 +1,8 @@
 
-Are you tired of painstakingly having to draw new assets every time your developer has a cool mechanics idea? Wish you could add more view angles to your pixel art without having to spend hours or days? Enter Pixelize3D, the ultimate solution to transform your 3D models into pixelated spritesheets effortlessly.
 ![bla](pixelize3D-showcase.gif)
+
+Are you tired of painstakingly having to draw new assets every time your developer has a cool mechanics idea? Wish you could add more view angles to your pixel art without having to spend hours or days? Enter Pixelize3D, the ultimate solution to transform your 3D models into pixelated spritesheets effortlessly.
+
 ## What is Pixelize3D?
 
 Pixel-Magic is a software tool that works its enchantment on your 3D characters, turning them into pixelated spritesheets fit for any old-school game. With this wizardry at your fingertips, you can bring a touch of nostalgia to your modern creations.

@@ -14,7 +14,9 @@ Get ready for a wild ride through the pixelated pastures of gaming and the futur
 
 Behold our digital menagerie of gaming and AI creations! These projects aren't your average pixels and algorithms; they're the result of wild ideas, sleepless nights, and perhaps a few too many cups of coffee.
 
-## 👾 [Pixelize3D](Pixelize3D/Discover%20Pixelize3D) 
+## 👾 Pixelize3D
 
-> Upgrade your game asset library using this awesome tool that converts your 3D models into spritesheets.
+Are you tired of painstakingly having to draw new assets every time your developer has a cool mechanics idea? Wish you could add more view angles to your pixel art without having to spend hours or days? Enter Pixelize3D, the ultimate solution to transform your 3D models into pixelated spritesheets effortlessly...
+
+[[Discover Pixelize3D#👉Read more]]
 
