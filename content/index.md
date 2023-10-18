@@ -14,7 +14,7 @@ Get ready for a wild ride through the pixelated pastures of gaming and the futur
 
 Behold our digital menagerie of gaming and AI creations! These projects aren't your average pixels and algorithms; they're the result of wild ideas, sleepless nights, and perhaps a few too many cups of coffee.
 
-## [[Pixelize 3D]]
+## 👾 [Pixelize3D](Pixelize3D/Discover%20Pixelize3D) 
 
-Upgrade your game asset library using this awesome tool that converts your 3D models into spritesheets.
+> Upgrade your game asset library using this awesome tool that converts your 3D models into spritesheets.
 

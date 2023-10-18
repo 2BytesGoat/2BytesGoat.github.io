@@ -10,6 +10,7 @@ Pixel-Magic is a software tool that works its enchantment on your 3D characters,
 1. **Import Your 3D Model:** Begin by importing your 3D character model into Pixelize3D. The software supports `.glb` file formats, ensuring compatibility with most 3D software.
 2. **Set Your Preferences**: Customize your conversion settings. Choose your desired pixel size, animation frame rate, and even apply retro color palettes to capture that classic gaming vibe.
 3. **Watch the Magic Unfold**: Hit the 'Play' button, and let Pixelize3D work its charm. Within seconds, your 3D character transforms into a stunning pixel art spritesheet. You'll be amazed at how your character now fits seamlessly into pixelated game environments.
+
 ## Why Pixelize3D?
 
 - **Time-Saving Alchemy**: No more painstakingly hand-crafting pixel art frames. Pixel-Magic streamlines the process, saving you hours of work.
