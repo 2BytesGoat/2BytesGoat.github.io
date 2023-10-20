@@ -1,7 +1,5 @@
-
 ---
-title: Welcome to 2BytesGoat 
-
+title: Welcome to 2BytesGoat
 ---
 
 Welcome to 2BytesGoat, where games and AI meet in a harmonious, yet sometimes chaotic, union. Don't worry, our goats are highly trained professionals!
