@@ -1,3 +1,8 @@
+---
+tags:
+  - pixelart
+date: 2023-10-18
+---
 
 ![bla](pixelize3D-showcase.gif)
 

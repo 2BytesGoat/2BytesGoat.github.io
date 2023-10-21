@@ -3,6 +3,7 @@ tags:
   - cameras
   - opencv
   - python
+date: 2021-11-14
 ---
 In this blog post I will show you how to use the calibration UI and how to obtain smooth disparity maps.
 

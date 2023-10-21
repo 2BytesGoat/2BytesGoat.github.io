@@ -3,6 +3,7 @@ tags:
   - cameras
   - opencv
   - python
+date: 2021-08-16
 ---
 In this blog post I will explain how you can setup a PlayStation4 camera on a Windows machine and how to capture images from it for your personal projects. 
 

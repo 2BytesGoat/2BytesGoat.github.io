@@ -3,6 +3,7 @@ tags:
   - godot3
   - maps
   - procedural
+date: 2021-11-13
 ---
 
 

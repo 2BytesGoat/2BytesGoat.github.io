@@ -3,6 +3,7 @@ tags:
   - cameras
   - opencv
   - python
+date: 2021-09-24
 ---
 In this blog post I will explain how to calibrate your stereo camera which will help us in obtaining accurate depth information.
 

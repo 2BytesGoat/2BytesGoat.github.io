@@ -1,3 +1,10 @@
+---
+tags:
+  - pixelart
+  - godot4
+  - blender
+date: 2023-10-19
+---
 
 # Prerequisites
 - Download and Install Blender - [link](https://www.blender.org/download/)
