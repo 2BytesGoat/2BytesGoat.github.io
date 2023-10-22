@@ -10,7 +10,7 @@ date: 2023-10-19
 - Download and Install Blender - [link](https://www.blender.org/download/)
 - Download and Install Godot - [steam](https://store.steampowered.com/app/404790/Godot_Engine/) - [standalone](https://godotengine.org/download/windows/)
 - Download the Pixelize3D project locally - [git link](https://github.com/GianiStatie/pixelize3d)
-- (Optional) Check the video tutorial to be able to follow along
+- (Optional) Check the video tutorial to be able to follow along - [link](https://www.youtube.com/watch?v=ez4lOfKzFbA)
 
 # Usage
 
