@@ -3,10 +3,9 @@ tags:
   - godot3
   - maps
   - procedural
+  - by-Giani
 date: 2021-11-13
 ---
-
-
 Hello there 🐐 I am currently working on a small project and needed to experiment with different map sizes and shapes. I took this opportunity to learn more about how maps can be procedurally generated in 3D.
 
 ** In this blog post I will show you how to procedurally create maps in Godot using Grid Maps. **
