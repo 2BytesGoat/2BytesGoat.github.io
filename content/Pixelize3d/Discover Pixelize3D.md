@@ -3,7 +3,6 @@ tags:
   - pixelart
 date: 2023-10-18
 ---
-[![image alt ><](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dez4lOfKzFbA)](https://www.youtube.com/watch?v=ez4lOfKzFbA)
 
 Are you tired of painstakingly having to draw new assets every time your developer has a cool mechanics idea? Wish you could add more view angles to your pixel art without having to spend hours or days? Enter Pixelize3D, the ultimate solution to transform your 3D models into pixelated spritesheets effortlessly.
 
@@ -11,6 +10,7 @@ Are you tired of painstakingly having to draw new assets every time your develop
 
 Pixel-Magic is a software tool that works its enchantment on your 3D characters, turning them into pixelated spritesheets fit for any old-school game. With this wizardry at your fingertips, you can bring a touch of nostalgia to your modern creations.
 
+[![image alt ><](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dez4lOfKzFbA)](https://www.youtube.com/watch?v=ez4lOfKzFbA)
 ## How Does It Work?
 
 1. **Import Your 3D Model:** Begin by importing your 3D character model into Pixelize3D. The software supports `.glb` file formats, ensuring compatibility with most 3D software.

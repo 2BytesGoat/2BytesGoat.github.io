@@ -490,10 +490,10 @@ img[alt$="<"] {
 }
 
 img[alt$="><"] {
-  width: 350px;
+  width: 500px;
+  height: 350px;
   display: block;
   max-width: 100%;
-  height: auto;
   margin: auto;
   float: none!important;
 }
