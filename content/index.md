@@ -12,8 +12,14 @@ Get ready for a wild ride through the pixelated pastures of gaming and the futur
 
 Behold our digital menagerie of gaming and AI creations! These projects aren't your average pixels and algorithms; they're the result of wild ideas, sleepless nights, and perhaps a few too many cups of coffee.
 
-## 👾 Converting 3D models into Sprites
+## 🏂 Slopes of Fury: HEITS Apuseni Cup Edition
 
+![image alt >](d694b0.gif)
+
+"Slopes of Fury: HEITS Apuseni Cup Edition" is the ultimate skiing challenge set in the perilous Apuseni Mountains. Brace yourself for heart-pounding descents, mind-bending twists, and gravity-defying jumps that will test your skills and sanity. Are you ready to conquer the legendary slopes, or will you succumb to the rage-inducing twists of "Slopes of Fury"? 
+
+👉[Try the game here](https://2bytesgoat.itch.io/apuseni-cup)
+## 👾 Converting 3D models into Sprites
 ![image alt <](pixelize3D-showcase.gif)  
 Are you tired of painstakingly having to draw new assets every time your developer has a cool mechanics idea? Wish you could add more view angles to your pixel art without having to spend hours or days? Enter Pixelize3D, the ultimate solution to transform your 3D models into pixelated spritesheets effortlessly...
 
