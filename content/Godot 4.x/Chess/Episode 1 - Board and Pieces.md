@@ -4,19 +4,14 @@ tags:
   - coding-challenge
 date: 2024-01-28
 ---
-**Shortcuts**
-- [[#Drawing the board|Drawing the board]]
-- [[#Defining chess pieces|Defining chess pieces]]
-	- [[#Defining chess pieces#Defining Piece Constants|Defining Piece Constants]]
-	- [[#Defining chess pieces#Creating a Piece Template|Creating a Piece Template]]
-	- [[#Defining chess pieces#Changing Colors using Shaders|Changing Colors using Shaders]]
-- [[#FEN and board setup|FEN and board setup]]
-
-You can support us through [Patreon](patreon.com/2bytesgoat) or get access to the final version of the code on [GitHub](https://github.com/GianiStatie/chess)
-## Drawing the board
-
  > [!info] Disclaimer
+ > 
  > My project uses [autotiles](https://docs.godotengine.org/en/stable/tutorials/2d/using_tilesets.html#doc-using-tilesets-creating-terrain-sets) and animated pieces, hence some code may seem a bit overkill for your use case.
+
+![img alt ><](Ep1-img0.png)
+
+You can support us through [Patreon](https://patreon.com/2bytesgoat) or get access to the final version of the code on [GitHub](https://github.com/GianiStatie/chess)
+## 1. Drawing the board
 
 First you will need to setup a autotiler in order to draw the board and have those nice and crispy edges. I used [BetterTerrain](https://www.youtube.com/watch?v=7m3OeacBaLE) to have more control of the TileMap and the [Tiny Swords](https://pixelfrog-assets.itch.io/tiny-swords) asset pack.
 
@@ -41,11 +36,11 @@ var viewport_center = get_viewport().size / 2
 viewport_center -= (map_shape * tile_set.tile_size) / 2
 position = viewport_center - Vector2i(0, rendering_quadrant_size/2)
 ```
-## Defining chess pieces
+## 2. Defining chess pieces
 
-### Defining Piece Constants
+### 2.1. Defining Piece Constants
 
-What I did here is that I first created a `Constrants.gd` preload file that I used to store information about chess pieces and also general stuff that should not change in-game.
+What I did here is that I first created a **Constrants.gd** preload file that I used to store information about chess pieces and also general stuff that should not change in-game.
 
 You can then store information inside of it such as the sprites that will be used for each individual piece such as
 
@@ -63,9 +58,9 @@ var UNITS = {
 	},
 	...
 ```
-### Creating a Piece Template
+### 2.2. Creating a Piece Template
 
-We can then create a `Unit.tscn` class that we'll use as a template to create chess pieces. The structure should look something like this
+We can then create a **Unit.tscn** class that we'll use as a template to create chess pieces. The structure should look something like this
 
 ```
 Unit (Node2D) # root of the scene
@@ -98,11 +93,11 @@ func _ready():
 	)
 ```
 
-### Changing Colors using Shaders
+### 2.3. Changing Colors using Shaders
 
-You may have seen that I'm calling the `Sprites` node with a extra variable called `Constants.PALETTES`. That's because I swap the palettes of a sprite at run-time to make blue pieces and red pieces.
+You may have seen that I'm calling the **Sprites** node with a extra variable called **Constants.PALETTES**. That's because I swap the palettes of a sprite at run-time to make blue pieces and red pieces.
 
-I've added the following shader to the `Sprites` node and told all it's children to use the parent material
+I've added the following shader to the **Sprites** node and told all it's children to use the parent material
 
 ``` CPP
 shader_type canvas_item;
@@ -132,7 +127,7 @@ void fragment() {
 }
 ```
 
-You can then change the colors programmatically inside the `Sprites` node by doing
+You can then change the colors programmatically inside the **Sprites** node by doing
 
 ```Python
 func update_palettes():
@@ -146,9 +141,9 @@ func update_palettes():
 	material.set_shader_parameter("new_shadow_color", color_palette["new_shadow_color"])
 	material.set_shader_parameter("new_light_color", color_palette["new_light_color"])
 ```
-## FEN and board setup
+## 3. FEN and board setup
 
-FEN (or [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation)) is a way to encode the state of a chess board using letters for pieces (`p` or `P` for black and white Pawns, `n` or `N` for black and white Knights) and numbers for empty spaces. 
+FEN (or [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation)) is a way to encode the state of a chess board using letters for pieces (**p** or **P** for black and white Pawns, **n** or **N** for black and white Knights) and numbers for empty spaces. 
 
 Thus, you can encode for example the initial state of a chess board by writing
 
@@ -156,7 +151,7 @@ Thus, you can encode for example the initial state of a chess board by writing
 var start_FEN = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR"
 ```
 
-Then you just need to split by `/` and parse the substrings to setup the board. **Easy!**
+Then you just need to split by **/** and parse the substrings to setup the board. **Easy!**
 
 ``` Python
 func get_unit_info_from_symbol(symbol: String):

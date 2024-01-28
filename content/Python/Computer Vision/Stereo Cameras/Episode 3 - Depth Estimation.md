@@ -12,9 +12,9 @@ In this blog post I will show you how to use the calibration UI and how to obtai
 ![[bm_algo_result.gif]]
 
 This blog post is part of a 3 part series on detecting depth using a PS4 camera:
-1. [[Stereo Cameras Episode 1]]
-2. [[Stereo Cameras Episode 2]]
-3. Stereo Cameras Episode 3
+1. [[Episode 1 - PS4 Camera on Windows]]
+2. [[Episode 2 - Camera Calibration]]
+3. Episode 3 - Depth Estimation
 
 Throughout the rest of the tutorial, you will gain experience in using OpenCV and Python to handle image streams and combine stereo images to obtain depth information.
 
