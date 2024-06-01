@@ -1,3 +1,8 @@
+---
+tags:
+  - learn-ai
+date: 2024-06-01
+---
 
 In the past people used to analyze a problem and come up with complicated rules (think of the video game bots). Building up these rules would take developers years to develop and perfect. 
 
@@ -35,6 +40,7 @@ You can make a call to the OpenAI API and ask chatGPT to classify your post as e
 - you don't need to know anything about Machine Learning
 - you don't need to know or use a programming language like Python
 - you can tweak how sensitive it can be to offensive posts through prompting
+
  **Cons**
 - it may classify the same post differently if you ask it multiple times
 - you won't be able to use your AI if ChatGPT is down
@@ -51,6 +57,7 @@ You can train an AI using [Machine Learning]([[What is Machine Learning]]) by fe
 * you could deploy the AI on your own custom hardware
 * the AI should be able to answer in under 1 second
 * you'll probably need to know Python or C++
+
 **Cons**
 * you need to create a training dataset that will be used to train the AI
 * you need to have the resources and time to train and refine the AI
@@ -66,6 +73,7 @@ You can create a set of rules such as a list of bad words or users that usually 
 * it's very light weight and fast
 * it can be done in any programming language
 * can be uploaded on a potato
+
 **Cons**
 * it's a iterative process and will take a lot of trial and error
 * it's hard to capture nuances of the language (slang, synonyms etc.)

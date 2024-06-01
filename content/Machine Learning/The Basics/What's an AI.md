@@ -1,3 +1,8 @@
+---
+tags:
+  - learn-ai
+date: 2024-06-01
+---
 
 When people (that don't work in sales) say **A**rtificial **I**ntelligence, what they usually refer to is some piece of code that behaves intelligently. 
 
