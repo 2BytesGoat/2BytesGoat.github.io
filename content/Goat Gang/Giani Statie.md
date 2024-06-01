@@ -4,7 +4,7 @@
 
 **Passions:** Game Development, Machine Learning, Geeky Stuff
 
-**Description**: A Software Engineer with TONS of ideas and a sweet spot for Video Games ᕕ( ᐛ )ᕗ
+**Description:** A Software Engineer with TONS of ideas and a sweet spot for Video Games ᕕ( ᐛ )ᕗ
 
 
 # Things I'm proud about
