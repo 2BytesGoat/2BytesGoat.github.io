@@ -48,7 +48,7 @@ You can make a call to the OpenAI API and ask chatGPT to classify your post as e
 * you won't know why ChatGPT did something even if you ask it
 
 ## 2. build a Machine Learning Classifier
-You can train an AI using [Machine Learning]([[What is Machine Learning]]) by feeding it a lot of examples with what you mean with offensive and not offensive.
+You can train an AI using Machine Learning by feeding it a lot of examples with what you mean with offensive and not offensive.
 
 **Pros**
 * the AI will know exactly what you mean when you call a post offensive
