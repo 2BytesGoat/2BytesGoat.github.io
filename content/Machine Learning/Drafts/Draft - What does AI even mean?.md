@@ -1,9 +1,9 @@
 ---
 tags:
   - learn-ai
+draft: true
 date: 2024-06-01
 ---
-
 When people (that don't work in sales) say **A**rtificial **I**ntelligence, what they usually refer to is some piece of code that behaves intelligently. 
 
 > [!example] Opinion
@@ -15,9 +15,3 @@ Thus, an AI can be anything from:
 * the software that can identify me in a crowd given a single picture of my face
 * or a chat bot that can answer like a human when don't want to search for information
 * but also an insanely difficult bot for the video game [Starcraft](https://en.wikipedia.org/wiki/StarCraft)
-
-# Outro 
-
-Want to learn more, but don't know where to go next? Try one of these paths:
-* [[Why building an AI is hard]]
-* [[What is Machine Learning]]
