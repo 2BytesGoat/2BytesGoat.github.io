@@ -1,3 +1,9 @@
+---
+tags:
+  - learn-ai
+draft: true
+date: 2024-06-01
+---
 You browse social media and hear all the hype about neural networks. But does anyone remember hearing about the OG classic machine learning algorithms? The good old Linear Regression, Support Vector Machine, Decision Trees?
 
 ![img](what_is_ml_0.jpg)

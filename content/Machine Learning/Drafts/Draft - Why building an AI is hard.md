@@ -1,6 +1,7 @@
 ---
 tags:
   - learn-ai
+draft: true
 date: 2024-06-01
 ---
 
@@ -84,4 +85,4 @@ You can create a set of rules such as a list of bad words or users that usually 
 That was a long one... hope you found it useful tho 😊
 
 If you want to learn more, but don't know where to go next? Try one of these paths:
-* [[What is Machine Learning]]
+* [[Draft - What is Machine Learning]]
