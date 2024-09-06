@@ -45,5 +45,5 @@ For example, you can have a machine learning model which is generally good at up
 
 ## Outro
 Hey 👋 In case it's your first time delving into the realm of Machine Learning and AI in general, maybe you'll be interested in some short side quests to make you feel less confused.
-* [[0. What does AI even mean?]] 
+* [[What does AI Even Mean]] 
 * [[Draft - Why building an AI is hard]]
