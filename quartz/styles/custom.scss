@@ -1,16 +1,32 @@
 @use "./base.scss";
 
+$small: 500px;
+
 // put your custom CSS here!
 img[alt$=">"] {
     float: right;
     width: 300px;
     margin: 15px;
+
+    @media screen and (max-width: $small) {
+        float: none;
+        width: 350px;
+        display: block;
+        margin: auto;
+    }
 }
 
 img[alt$="<"] {
     float: left;
     width: 300px;
     margin: 15px;
+
+    @media screen and (max-width: $small) {
+        float: none;
+        width: 350px;
+        display: block;
+        margin: auto;
+    }
 }
 
 img[alt$="><"] {
@@ -20,6 +36,12 @@ img[alt$="><"] {
     max-width: 100%;
     margin: auto;
     float: none !important;
+}
+
+img[alt=drawing] {
+    max-width: 60%;
+    display: block;
+    margin: auto;
 }
 
 .katex-display {
