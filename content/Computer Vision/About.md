@@ -1,0 +1,1 @@
+* **[Stereo Cameras](./Computer-Vision/Stereo-Cameras)** - my firsthand experience working with a PS4 stereo camera. It was fun, kinda outdated tho
