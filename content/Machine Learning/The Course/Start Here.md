@@ -43,4 +43,4 @@
 	* Grid Search 
 	* Genetic algorithms
 
-**E. Lingo Glossary
+**E. Lingo Glossary**
