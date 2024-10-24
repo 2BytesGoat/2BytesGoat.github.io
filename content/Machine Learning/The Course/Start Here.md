@@ -43,4 +43,4 @@
 	* Grid Search 
 	* Genetic algorithms
 
-**E. Glossary of Machine Learning Lingo**
+**E. Lingo Glossary
