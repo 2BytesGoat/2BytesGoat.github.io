@@ -4,7 +4,6 @@ tags:
 draft: false
 date: 2024-10-14
 ---
-
 ![img >](env-dj-demo.gif)
 
 In Dragon Jump you play as a orange dragon who's job is search for the secret door that takes him to the next level. 
@@ -14,7 +13,7 @@ While playing you only need to **PRESS SPACE** (or ENTER), to make the Dragon Ju
 The dragon can also roll over ledges and walls, and hang onto walls to jump some more.
 
 <br>
-<center>You can download the game environment from: <a href="https://github.com/2BytesGoat/ENV-DragonJump/releases">GitHub </a> </center>
+<center>Download the <u>game environment</u> from: <a href="https://github.com/2BytesGoat/ENV-DragonJump/releases">GitHub </a> </center>
 
 ## How the environment works
 
@@ -62,7 +61,7 @@ The **done** flag will be set to true once the agent either completes the map or
 
 **Disclaimer**: I don't remember what's the number of steps I chose for this environment, so you can figure out the reason it ended by what was **the last reward** it received. If the reward is higher than usual and you have a seemingly random number of steps: Congrats! You did it! 🍻
 
-<center>You can download the starter code from here: <a href="https://github.com/2BytesGoat/PLaiGROUND">GitHub </a> </center>
+<center>Download the <u>starter code</u> from here: <a href="https://github.com/2BytesGoat/PLaiGROUND">GitHub </a> </center>
 
 
 ## About Observations
@@ -117,4 +116,4 @@ You can decide whether to jump or not based on a lot of factors, such as:
 * how close the dragon is to the door
 * whether the color of the next 20 pixels from the dragon are green or gray
 
-<center>You can download the starter code from here: <a href="https://github.com/2BytesGoat/PLaiGROUND">GitHub </a> </center>
+<center>Download the <u>starter code</u> from here: <a href="https://github.com/2BytesGoat/PLaiGROUND">GitHub </a> </center>
