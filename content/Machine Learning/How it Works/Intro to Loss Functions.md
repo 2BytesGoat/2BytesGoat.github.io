@@ -58,7 +58,6 @@ This formula simply means: take the difference between where you are and where y
 xychart-beta
 x-axis "Your Location" [cafe_1, home, neighbour_house, cafe_2]
 y-axis "Squared Distance" 0.1 --> 5
-bar [1, 0, 1, 4]
 line [1, 0, 1, 4]
 ```
 ## Python Code
@@ -90,7 +89,6 @@ This formula means we take the absolute value of the difference between your cur
 xychart-beta
 x-axis "Your Location" [cafe_1, home, neighbour_house, cafe_2]
 y-axis "Absolute Distance" 0.1 --> 5
-bar [1, 0, 1, 2]
 line [1, 0, 1, 2]
 ```
 ## Python Code
